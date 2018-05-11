@@ -2,6 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JSON-java library
 Bundle-SymbolicName: org.globaltester.lib.json
+Bundle-Vendor: secunet Security Networks AG
 Bundle-Version: 3.2.4.qualifier
 Export-Package: org.json
 Bundle-ClassPath: lib/json-20171018.jar
