@@ -3,6 +3,6 @@ Bundle-ManifestVersion: 2
 Bundle-Name: GT Lib JSON
 Bundle-SymbolicName: org.globaltester.lib.json
 Bundle-Vendor: secunet Security Networks AG
-Bundle-Version: 3.3.1.qualifier
+Bundle-Version: 3.4.0.qualifier
 Export-Package: org.json
 Bundle-ClassPath: lib/json-20171018.jar
